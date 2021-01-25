@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+// color
+$ssafy: #3893A8;
+
+// font
+$font-size__1: 1.786rem;
+
+// 12px
+$f100: 100;
+
+@mixin div {
+  width: 100%;
+  float: left;
+  height: 1px;
+}
+
+h1 {
+  color: $ssafy;
+  font-size: $font-size__1;
+}

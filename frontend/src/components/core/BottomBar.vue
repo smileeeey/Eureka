@@ -2,6 +2,7 @@
   <v-bottom-navigation
     color="teal"
     app
+    grow
   >
     <v-btn class="pa-0" to="/">
       <v-icon large color="black">mdi-home</v-icon>
