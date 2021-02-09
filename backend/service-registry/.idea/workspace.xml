@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9869ec1c-e439-4df3-a418-c6245cbce268" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Auth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Auth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Auth/src/main/java/com/eureka/auth/AuthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Auth/src/main/java/com/eureka/auth/AuthApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Auth/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Seller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Seller/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9869ec1c-e439-4df3-a418-c6245cbce268" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612909539790</updated>
-      <workItem from="1612909543025" duration="2657000" />
+      <workItem from="1612909543025" duration="3051000" />
     </task>
     <servers />
   </component>
