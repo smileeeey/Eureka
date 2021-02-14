@@ -1,0 +1,16 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: Recommend
+  datasource:
+    url: jdbc:mysql://localhost:3306/recommend?allowPublicKeyRetrieval=true&useSSL=false&characterEncoding=UTF-8&serverTimezone=UTC
+    username: sumin
+    password: sumin
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    generate-ddl: true
+
