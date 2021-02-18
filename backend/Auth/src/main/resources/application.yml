@@ -1,5 +1,15 @@
 server:
   port: 9999
+  ssl:
+    enabled: true
+    key-store: /home/test/eureka_keystore.jks
+    key-store-password: wndeowkd
+    key-password: wndeowkd
+    key-alias: eureka
+    trust-store: /home/test/eureka_truestore.ts
+    trust-store-password: wndeowkd
+
+    security.require-ssl: true
 eureka:
   client:
     register-with-eureka: true
